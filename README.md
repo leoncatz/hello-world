@@ -1,2 +1,3 @@
 # hello-world
-shared repository
+shared repository. 
+Once upon a time there was a programmer named Lejb Seredovitz.
